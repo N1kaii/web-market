@@ -1,0 +1,50 @@
+header{
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+.logo{
+    height: 72px;
+}
+.title{
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.title h1, .title h3{
+    padding: 0;
+    margin: 0;
+}
+
+.title h1{
+    font-size: 48px;
+}
+
+.title h3{
+    font-size: 16px;
+}
+
+#cart{
+    text-decoration: none;
+    position: fixed;
+    top: 20px;
+    right: 0;
+    padding: 10px 20px 10px 40px;
+    border-radius: 32px 0 0 32px;
+    background-color: cornflowerblue;
+    box-shadow: 0 6px 6px darkgray;
+}
+
+#cart img{
+    height: 32px;
+}
+
+#cart span{
+    position: relative;
+    top: -5px;
+    left: -5px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
