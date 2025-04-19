@@ -1,11 +1,67 @@
 {
     "Электрогитара Yamaha PACIFICA112VM":{
-        "brand": "",
-        "frame": "",
-        "frameShape": "",
-        "vulture": "",
-        "Fingerboard": "",
-        "Frets": ""
+        "brand": "YAMAHA", 
+        "color": "RM (Red Metallic)",
+        "frame": "Ольха",
+        "frameShape": "Stratocaster",
+        "vulture": "Клен",
+        "fingerBoard": "Клен",
+        "frets": "22", 
+        "country": "Индонезия", 
+        "soundPickUp": "Single Coil/Alnico V (нековый), Single Coil/Alnico V (средний), ​Humbucker/Alnico V (бриджевый)",
+        "price": "195 300"
+    }, 
+
+    "SCHECTER NICK JOHNSTON TRAD-SSS (289)":{
+        "brand": "SCHECTER", 
+        "color": "AG (Atomic Green)",
+        "frame": "Ольха",
+        "frameShape": "Stratocaster",
+        "vulture": "Обожженный клен",
+        "Fingerboard": "Черное дерево",
+        "Frets": "22",
+        "country": "Индонезия",
+        "soundPickUp": "Schecter Diamond Nick Johnston Single Coil х 3",
+        "price": "420 500"
+
+    },
+    "EPIPHONE Les Paul Custom (Incl Hard Case)":{
+        "brand": "EPIPHONE", 
+        "color": "AW (Alpine White)",
+        "frame": "Красное дерево",
+        "frameShape": "Les Paul",
+        "vulture": "Красное дерево",
+        "Fingerboard": "Эбеновое дерево",
+        "Frets": "22",
+        "country": "Китай",
+        "soundPickUp": "Epiphone ProBucker™ 2",
+        "price": "644 035"
+
+    },
+    "GIBSON 80s Flying V Solidbody":{
+        "brand": "GIBSON", 
+        "color": "EB (Ebony)",
+        "frame": "Красное дерево",
+        "frameShape": "Flying-V",
+        "vulture": "Красное дерево",
+        "Fingerboard": "Палисандр",
+        "Frets": "22", 
+        "country": "США",
+        "soundPickUp": "80s Tribute 2",
+        "price": "1 303 764"
+
+    },
+    "EPIPHONE 1958 Korina Explorer ":{
+        "brand": "EPIPHONE", 
+        "color": "AG(Aged Natural)",
+        "frame": "Корина",
+        "frameShape": "Explorer",
+        "vulture": "Корина",
+        "Fingerboard": "Лавр",
+        "Frets": "22", 
+        "country": "США",
+        "soundPickUp": "Burstbucker 2",
+        "price": "678 471"
 
     }
 }
