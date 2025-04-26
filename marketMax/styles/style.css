@@ -59,3 +59,15 @@ header{
 #search{
     border-radius: 10px;
 }
+
+.guitar-card .slider-wrapper {
+    display: inline-block;
+    position: relative;
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+
+.phone-card .slider-wrapper img {
+
+}
